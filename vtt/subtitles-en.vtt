@@ -1,0 +1,565 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.160
+Hello and welcome to this course
+
+2
+00:00:02.160 --> 00:00:04.425
+on Kotlin advanced programming.
+
+3
+00:00:04.425 --> 00:00:06.255
+As an aspiring developer,
+
+4
+00:00:06.255 --> 00:00:08.160
+you may have some
+existing knowledge
+
+5
+00:00:08.160 --> 00:00:10.515
+and skills in Android
+app development.
+
+6
+00:00:10.515 --> 00:00:11.910
+This course will help you
+
+7
+00:00:11.910 --> 00:00:14.025
+advance your app
+development level by
+
+8
+00:00:14.025 --> 00:00:15.990
+introducing you to
+the finer points
+
+9
+00:00:15.990 --> 00:00:17.910
+of Kotlin code and concepts,
+
+10
+00:00:17.910 --> 00:00:19.500
+you will probably agree that
+
+11
+00:00:19.500 --> 00:00:21.150
+there's an app for everything.
+
+12
+00:00:21.150 --> 00:00:23.100
+However, it's important
+to realize that
+
+13
+00:00:23.100 --> 00:00:25.320
+there isn't a great
+app for everything.
+
+14
+00:00:25.320 --> 00:00:28.560
+The all-important metric
+of user experience is
+
+15
+00:00:28.560 --> 00:00:30.240
+determined by excellent design
+
+16
+00:00:30.240 --> 00:00:32.610
+coupled with solid
+software development.
+
+17
+00:00:32.610 --> 00:00:34.395
+To achieve such excellence,
+
+18
+00:00:34.395 --> 00:00:36.420
+it's vital to continually grow
+
+19
+00:00:36.420 --> 00:00:39.315
+your mastery of the Kotlin
+programming language.
+
+20
+00:00:39.315 --> 00:00:42.025
+In this advanced programming
+in Kotlin course,
+
+21
+00:00:42.025 --> 00:00:43.460
+you will expand your Kotlin
+
+22
+00:00:43.460 --> 00:00:45.140
+programming knowledge
+so that you can
+
+23
+00:00:45.140 --> 00:00:48.550
+engineer better solutions
+when building Android apps.
+
+24
+00:00:48.550 --> 00:00:51.150
+Kotlin is an open-source
+language with
+
+25
+00:00:51.150 --> 00:00:54.400
+an Apache 2 license and is
+available free of charge.
+
+26
+00:00:54.400 --> 00:00:56.960
+It is used daily
+and worldwide by
+
+27
+00:00:56.960 --> 00:00:59.210
+large and small organizations
+
+28
+00:00:59.210 --> 00:01:01.745
+to produce many
+different types of apps.
+
+29
+00:01:01.745 --> 00:01:04.805
+To do advanced app
+development work with Kotlin,
+
+30
+00:01:04.805 --> 00:01:06.815
+you should have a good
+working knowledge
+
+31
+00:01:06.815 --> 00:01:08.450
+of programming fundamentals.
+
+32
+00:01:08.450 --> 00:01:10.340
+Be familiar with the concepts of
+
+33
+00:01:10.340 --> 00:01:13.340
+user experience and
+user interface design,
+
+34
+00:01:13.340 --> 00:01:16.010
+and be able to create
+user interfaces in
+
+35
+00:01:16.010 --> 00:01:19.115
+Android Studio to assist
+with your learning,
+
+36
+00:01:19.115 --> 00:01:20.510
+you will view and work on
+
+37
+00:01:20.510 --> 00:01:23.015
+development tasks for the
+fictitious Restaurant,
+
+38
+00:01:23.015 --> 00:01:24.995
+Little Lemon, where
+you will encounter
+
+39
+00:01:24.995 --> 00:01:27.620
+many real-world scenarios with
+
+40
+00:01:27.620 --> 00:01:30.200
+your newly upscaled
+Kotlin knowledge,
+
+41
+00:01:30.200 --> 00:01:32.120
+you will work through
+these scenarios,
+
+42
+00:01:32.120 --> 00:01:35.285
+overcoming challenges and
+implementing solutions.
+
+43
+00:01:35.285 --> 00:01:37.175
+As your skill set grows,
+
+44
+00:01:37.175 --> 00:01:40.100
+you will focus on many
+Kotlin language tools,
+
+45
+00:01:40.100 --> 00:01:42.710
+why you need them and
+how they are used.
+
+46
+00:01:42.710 --> 00:01:44.585
+In this course introduction,
+
+47
+00:01:44.585 --> 00:01:46.730
+you may encounter
+some new terms,
+
+48
+00:01:46.730 --> 00:01:48.230
+but don't worry if you don't
+
+49
+00:01:48.230 --> 00:01:50.030
+fully understand all of them.
+
+50
+00:01:50.030 --> 00:01:51.770
+During the course,
+you'll explore
+
+51
+00:01:51.770 --> 00:01:53.585
+these concepts in more detail
+
+52
+00:01:53.585 --> 00:01:55.250
+along with the core
+skills that are
+
+53
+00:01:55.250 --> 00:01:57.920
+required during app
+development with Kotlin.
+
+54
+00:01:57.920 --> 00:02:01.140
+This course consists of
+four weeks of learning.
+
+55
+00:02:01.140 --> 00:02:02.525
+By the end of this course,
+
+56
+00:02:02.525 --> 00:02:05.030
+you should have acquired the
+skills and knowledge with
+
+57
+00:02:05.030 --> 00:02:07.010
+the necessary tools to complete
+
+58
+00:02:07.010 --> 00:02:09.295
+the end-of-course
+Android project.
+
+59
+00:02:09.295 --> 00:02:11.810
+Let's break down the
+content you will cover in
+
+60
+00:02:11.810 --> 00:02:14.990
+each week of this advanced
+programming in Kotlin course.
+
+61
+00:02:14.990 --> 00:02:17.480
+Week 1 covers the
+key features of
+
+62
+00:02:17.480 --> 00:02:20.150
+Kotlin and Android and
+how they interact.
+
+63
+00:02:20.150 --> 00:02:21.770
+After your studies this week,
+
+64
+00:02:21.770 --> 00:02:24.590
+you will be able to
+explain how to use
+
+65
+00:02:24.590 --> 00:02:28.010
+inheritance to decide how
+a component should behave.
+
+66
+00:02:28.010 --> 00:02:31.070
+Implement an application
+with an activity,
+
+67
+00:02:31.070 --> 00:02:33.230
+implement a list adapter,
+
+68
+00:02:33.230 --> 00:02:35.890
+and declare an
+object in Android.
+
+69
+00:02:35.890 --> 00:02:38.675
+Create a new static
+inner classes
+
+70
+00:02:38.675 --> 00:02:40.880
+and inner modifiers
+when appropriate,
+
+71
+00:02:40.880 --> 00:02:43.675
+set and read activity arguments,
+
+72
+00:02:43.675 --> 00:02:46.040
+and implement a companion object
+
+73
+00:02:46.040 --> 00:02:48.490
+with constant values
+and arguments.
+
+74
+00:02:48.490 --> 00:02:52.050
+Week 2 explores advanced
+object-oriented features.
+
+75
+00:02:52.050 --> 00:02:53.630
+You will advance your skills
+
+76
+00:02:53.630 --> 00:02:55.310
+during this week to be able to
+
+77
+00:02:55.310 --> 00:02:57.350
+use an extension function to add
+
+78
+00:02:57.350 --> 00:02:59.510
+a method to a class
+when appropriate.
+
+79
+00:02:59.510 --> 00:03:01.519
+Explain a testing methodology
+
+80
+00:03:01.519 --> 00:03:03.724
+called test-driven development,
+
+81
+00:03:03.724 --> 00:03:05.450
+lists the main features of
+
+82
+00:03:05.450 --> 00:03:07.865
+test-driven development or TDD,
+
+83
+00:03:07.865 --> 00:03:10.925
+and explain the purpose
+and types of testing.
+
+84
+00:03:10.925 --> 00:03:14.255
+Use mocks and fakes for
+unit testing in Android,
+
+85
+00:03:14.255 --> 00:03:18.190
+and define and use a generic
+class to solve a problem.
+
+86
+00:03:18.190 --> 00:03:21.015
+Week 3 covers
+functional programming.
+
+87
+00:03:21.015 --> 00:03:23.990
+You'll cover what it is
+and why it's useful?
+
+88
+00:03:23.990 --> 00:03:27.035
+In addition, you'll work
+with functions in Kotlin.
+
+89
+00:03:27.035 --> 00:03:29.330
+After successfully
+completing this week,
+
+90
+00:03:29.330 --> 00:03:31.340
+you'll be able to explain what
+
+91
+00:03:31.340 --> 00:03:34.040
+functional programming
+is and why it's useful.
+
+92
+00:03:34.040 --> 00:03:36.560
+Read and define a function type.
+
+93
+00:03:36.560 --> 00:03:39.650
+Use a lambda expression
+to define a function as
+
+94
+00:03:39.650 --> 00:03:41.480
+an object and define
+
+95
+00:03:41.480 --> 00:03:44.495
+a function that takes a
+function as an argument.
+
+96
+00:03:44.495 --> 00:03:46.670
+Use collection
+processing functions
+
+97
+00:03:46.670 --> 00:03:48.110
+to process collections in
+
+98
+00:03:48.110 --> 00:03:49.790
+different ways and use
+
+99
+00:03:49.790 --> 00:03:51.620
+collection processing
+methods from
+
+100
+00:03:51.620 --> 00:03:53.830
+multi-step collection
+processing.
+
+101
+00:03:53.830 --> 00:03:55.400
+In this final week,
+
+102
+00:03:55.400 --> 00:03:57.980
+you will complete a
+practical development task,
+
+103
+00:03:57.980 --> 00:04:00.440
+which will synthesize
+the concepts
+
+104
+00:04:00.440 --> 00:04:02.210
+and skills from this course to
+
+105
+00:04:02.210 --> 00:04:03.950
+create a list with filtering and
+
+106
+00:04:03.950 --> 00:04:06.655
+sorting in the final app
+development project,
+
+107
+00:04:06.655 --> 00:04:08.510
+and allow you to reflect on
+
+108
+00:04:08.510 --> 00:04:10.985
+the next steps in the
+learning journey.
+
+109
+00:04:10.985 --> 00:04:13.625
+The advanced programming
+in Kotlin course
+
+110
+00:04:13.625 --> 00:04:17.210
+introduces you to many
+software engineering concepts.
+
+111
+00:04:17.210 --> 00:04:20.480
+These will help you to
+build a better Android app.
+
+112
+00:04:20.480 --> 00:04:22.580
+Engineering excellence is not
+
+113
+00:04:22.580 --> 00:04:24.905
+simply about what works
+well on the surface,
+
+114
+00:04:24.905 --> 00:04:27.860
+but also about everything
+that is happening within.
+
+115
+00:04:27.860 --> 00:04:29.390
+Your programming skills and
+
+116
+00:04:29.390 --> 00:04:31.520
+approach to creating
+code solutions are
+
+117
+00:04:31.520 --> 00:04:33.545
+the most important
+success factors
+
+118
+00:04:33.545 --> 00:04:35.485
+when it comes to
+app development.
+
+119
+00:04:35.485 --> 00:04:37.400
+I look forward to
+helping you build
+
+120
+00:04:37.400 --> 00:04:39.080
+the advanced
+programming skills you
+
+121
+00:04:39.080 --> 00:04:41.330
+need to get to the next level.
+
+122
+00:04:41.330 --> 00:04:45.270
+Wishing you all the best on
+your Kotlin learning journey.
